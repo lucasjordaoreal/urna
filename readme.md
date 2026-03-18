@@ -67,9 +67,3 @@ python urna.py
 3. **Corrigindo Erros:** Caso tenha se arrependido do número, clique no botão laranja **`CORRIGE`**. A tela será limpa e você poderá recomeçar.
 4. **Votando em Branco:** Clique diretamente no botão branco **`BRANCO`**. Aparecerá a tela especial confirmando o voto em branco.
 5. **Finalizando:** Estando de acordo com os dados apresentados (ou branco impresso na tela), aperte o botão verde gigante **`CONFIRMA`**. Aguarde o som característico de sucesso e a tela informando "FIM". O sistema resetará depois de 3 segundos, pronto para o próximo eleitor.
-
----
-
-<p align="center">
-  Feito com ❤️ & Python 
-</p>
