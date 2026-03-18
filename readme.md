@@ -1,5 +1,5 @@
 <h1 align="center">
-  Urna Eletrônica Brasileira (Simulador) 🗳️
+  Urna Eletrônica Brasileira
 </h1>
 
 <p align="center">
